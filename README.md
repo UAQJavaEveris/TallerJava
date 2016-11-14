@@ -4,8 +4,8 @@ Java 7
 Syllabus
 ==
 1. Java Básico
-  1.1 Aspectos básicos
-  1.2 Principios Orientados a Objetos
+  1. Aspectos básicos
+  2. Principios Orientados a Objetos
   1.3 Tipos de datos en Java
   1.4 Usando Operadores
   1.5 Arreglos.
